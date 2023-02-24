@@ -1601,9 +1601,11 @@ function remove_accents( $string, $locale = '' ) {
 
 		// Unicode sequence normalization from NFD (Normalization Form Decomposed)
 		// to NFC (Normalization Form [Pre]Composed), the encoding used in this function.
-		if ( function_exists( 'normalizer_normalize' ) ) {
-			if ( ! normalizer_is_normalized( $string, Normalizer::FORM_C ) ) {
-				$string = normalizer_normalize( $string, Normalizer::FORM_C );
+		if ( function_exists( 'normalizer_is_normalized' )
+			&& function_exists( 'normalizer_normalize' )
+		) {
+			if ( ! normalizer_is_normalized( $string ) ) {
+				$string = normalizer_normalize( $string );
 			}
 		}
 
@@ -2329,6 +2331,7 @@ function sanitize_title_with_dashes( $title, $raw_title = '', $context = 'displa
 				'%e2%80%ad', // Left-to-right override.
 				'%e2%80%ae', // Right-to-left override.
 				'%ef%bb%bf', // Byte order mark.
+				'%ef%bf%bc', // Object replacement character.
 			),
 			'',
 			$title
@@ -4770,6 +4773,7 @@ function sanitize_option( $option, $value ) {
 		case 'users_can_register':
 		case 'start_of_week':
 		case 'site_icon':
+		case 'fileupload_maxk':
 			$value = absint( $value );
 			break;
 
@@ -4923,7 +4927,7 @@ function sanitize_option( $option, $value ) {
 			break;
 
 		case 'timezone_string':
-			$allowed_zones = timezone_identifiers_list();
+			$allowed_zones = timezone_identifiers_list( DateTimeZone::ALL_WITH_BC );
 			if ( ! in_array( $value, $allowed_zones, true ) && ! empty( $value ) ) {
 				$error = __( 'The timezone you have entered is not valid. Please select a valid timezone.' );
 			}
@@ -5795,14 +5799,14 @@ function _print_emoji_detection_script() {
 
 	if ( SCRIPT_DEBUG ) {
 		$settings['source'] = array(
-			/** This filter is documented in wp-includes/class.wp-scripts.php */
+			/** This filter is documented in wp-includes/class-wp-scripts.php */
 			'wpemoji' => apply_filters( 'script_loader_src', includes_url( "js/wp-emoji.js?$version" ), 'wpemoji' ),
-			/** This filter is documented in wp-includes/class.wp-scripts.php */
+			/** This filter is documented in wp-includes/class-wp-scripts.php */
 			'twemoji' => apply_filters( 'script_loader_src', includes_url( "js/twemoji.js?$version" ), 'twemoji' ),
 		);
 	} else {
 		$settings['source'] = array(
-			/** This filter is documented in wp-includes/class.wp-scripts.php */
+			/** This filter is documented in wp-includes/class-wp-scripts.php */
 			'concatemoji' => apply_filters( 'script_loader_src', includes_url( "js/wp-emoji-release.min.js?$version" ), 'concatemoji' ),
 		);
 	}

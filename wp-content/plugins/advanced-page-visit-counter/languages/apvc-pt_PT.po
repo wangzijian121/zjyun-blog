@@ -1,0 +1,1235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-17 23:18+0530\n"
+"PO-Revision-Date: 2020-05-17 23:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: admin/class-advanced-page-visit-counter-admin.php:156
+#: admin/class-advanced-page-visit-counter-admin.php:182
+#, fuzzy
+msgid "Search By :"
+msgstr "Pesquisar por :"
+
+#: admin/class-advanced-page-visit-counter-admin.php:157
+#, fuzzy
+msgid "Shortcode Copied to clipboard."
+msgstr "Código curto copiado para área de transferência."
+
+#: admin/class-advanced-page-visit-counter-admin.php:158
+#, fuzzy
+msgid "Data Imported successfully."
+msgstr "Dados Importados com sucesso."
+
+#: admin/class-advanced-page-visit-counter-admin.php:159
+#, fuzzy
+msgid "File format is not supported."
+msgstr "O formato do arquivo não é suportado."
+
+#: admin/class-advanced-page-visit-counter-admin.php:160
+#, fuzzy
+msgid "Shortcode Deleted successfully."
+msgstr "Código curto excluído com sucesso."
+
+#: admin/class-advanced-page-visit-counter-admin.php:161
+#, fuzzy
+msgid "File Deleted successfully."
+msgstr "Arquivo excluído com sucesso."
+
+#: admin/class-advanced-page-visit-counter-admin.php:162
+msgid "Success"
+msgstr "Sucesso"
+
+#: admin/class-advanced-page-visit-counter-admin.php:163
+msgid "Failed"
+msgstr "Falhou"
+
+#: admin/class-advanced-page-visit-counter-admin.php:164
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+#: admin/class-advanced-page-visit-counter-admin.php:165
+#, fuzzy
+msgid "You won't be able to revert this!"
+msgstr "Você não será capaz de reverter isso!"
+
+#: admin/class-advanced-page-visit-counter-admin.php:166
+#: admin/class-advanced-page-visit-counter-admin.php:4388
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/class-advanced-page-visit-counter-admin.php:167
+msgid "OK"
+msgstr "OK"
+
+#: admin/class-advanced-page-visit-counter-admin.php:168
+msgid "Great "
+msgstr "Ótima"
+
+#: admin/class-advanced-page-visit-counter-admin.php:169
+#, fuzzy
+msgid "Please select valid date range."
+msgstr "Selecione o intervalo de dataválido."
+
+#: admin/class-advanced-page-visit-counter-admin.php:170
+#, fuzzy
+msgid "Please upload valid file. (xls,xlsx,csv)"
+msgstr "Por favor, faça upload do arquivo válido. (xls,xlsx,csv)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:171
+#, fuzzy
+msgid "Please enter valid date."
+msgstr "Por favor, digite a data válida."
+
+#: admin/class-advanced-page-visit-counter-admin.php:172
+msgid "Please enter valid data."
+msgstr "Por favor, insira dados válidos."
+
+#: admin/class-advanced-page-visit-counter-admin.php:173
+msgid "Open"
+msgstr "Abrir"
+
+#: admin/class-advanced-page-visit-counter-admin.php:174
+#, fuzzy
+msgid "File Export Completed"
+msgstr "Exportação de arquivos concluída"
+
+#: admin/class-advanced-page-visit-counter-admin.php:175
+#, fuzzy
+msgid "Please Enter Shortcode Name"
+msgstr "Por favor, digite o nome do código curto"
+
+#: admin/class-advanced-page-visit-counter-admin.php:198
+#, fuzzy
+msgid "Advanced Page Visit Counter"
+msgstr "Contador de visitas de página avançada"
+
+#: admin/class-advanced-page-visit-counter-admin.php:966
+#: admin/class-advanced-page-visit-counter-admin.php:1775
+msgid " ago"
+msgstr " atrás"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1076
+#, fuzzy
+msgid "Total Visits (Last 1 Year)"
+msgstr "Total de visitas (último 1 ano)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1097
+#, fuzzy
+msgid "Total Visits (Month)"
+msgstr "Total de visitas (mês)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1118
+#, fuzzy
+msgid "Total Visits (Week)"
+msgstr "Total de visitas (Semana)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1139
+#, fuzzy
+msgid "Total Visits (Today)"
+msgstr "Total de visitas (hoje)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1169
+msgid "Daily"
+msgstr "Diariamente"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1179
+msgid " "
+msgstr " "
+
+#: admin/class-advanced-page-visit-counter-admin.php:1192
+msgid "Updated at "
+msgstr "Atualizado em"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1416
+msgid "Total Revenue"
+msgstr "Receita total"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1433
+msgid "Orders"
+msgstr "Pedidos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1459
+msgid "Product Sales"
+msgstr "Vendas por Ingresso"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1477
+msgid "Realtime Statistics"
+msgstr "Estatísticas em tempo real"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1478
+msgid "New"
+msgstr "Novo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1492
+#, fuzzy
+msgid ""
+"Note: These statistics are aggregated over all of your application's users."
+msgstr ""
+"Nota: Essas estatísticas são agregadas sobre todos os usuários do seu "
+"aplicativo."
+
+#: admin/class-advanced-page-visit-counter-admin.php:1504
+#: admin/class-advanced-page-visit-counter-admin.php:1514
+#: admin/class-advanced-page-visit-counter-admin.php:2065
+#: admin/class-advanced-page-visit-counter-admin.php:2183
+#: admin/class-advanced-page-visit-counter-admin.php:2488
+#: admin/class-advanced-page-visit-counter-admin.php:2918
+#: admin/class-advanced-page-visit-counter-admin.php:3211
+#: admin/class-advanced-page-visit-counter-admin.php:3821
+#: admin/class-advanced-page-visit-counter-admin.php:4315
+#: admin/class-advanced-page-visit-counter-admin.php:4540
+#, fuzzy
+msgid "Exclusive for Premium Version Only"
+msgstr "Exclusivo para versão premium somente"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1525
+#, fuzzy
+msgid "Browser Traffic"
+msgstr "Tráfego do navegador"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1537
+#, fuzzy
+msgid "Traffic source (Referral Websites)"
+msgstr "Fonte de tráfego (Sites de referência)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1547
+#, fuzzy
+msgid "Traffic by Operating Systems"
+msgstr "Tráfego por Sistemas Operacionais"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1574
+msgid "Welcome back, "
+msgstr "Bem vindo, "
+
+#: admin/class-advanced-page-visit-counter-admin.php:1577
+#, fuzzy
+msgid ""
+"SPECIAL OFFER Until <strong>31st May</strong> only. <br/> USE COUPON: "
+"<strong class='cpn'>APVC30OFF</strong> TO GET <strong>30%</strong> DISCOUNT "
+"ON ALL PLANS."
+msgstr ""
+"OFERTA ESPECIAL Até <strong>31 de maio</strong> somente.<br/>USE CUPOM: "
+"<strong class='cpn'>APVC30OFF</strong> PARA OBTER <strong>30%</strong> DE "
+"DESCONTO EM TODOS OS PLANOS."
+
+#: admin/class-advanced-page-visit-counter-admin.php:1582
+#: admin/class-advanced-page-visit-counter-admin.php:1587
+#, fuzzy
+msgid "Give Your Review"
+msgstr "Dê sua opinião"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1583
+msgid "Support"
+msgstr "Suporte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1584
+msgid "Premium Version "
+msgstr "Versão Premium"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1588
+#: admin/class-advanced-page-visit-counter-admin.php:2991
+#: admin/class-advanced-page-visit-counter-admin.php:3001
+msgid "Upgrade Now!"
+msgstr "Atualizar Agora!"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1589
+msgid "Free Version "
+msgstr "Versão Gratuita"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1809
+msgid "Top 10 Pages"
+msgstr "Top 10 de Páginas"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1815
+msgid "No Pages Found"
+msgstr "Nenhuma Página Encontrada"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1825
+#: admin/class-advanced-page-visit-counter-admin.php:1865
+#: admin/class-advanced-page-visit-counter-admin.php:1906
+#: admin/class-advanced-page-visit-counter-admin.php:1947
+#, fuzzy
+msgid "Recent Visit:"
+msgstr "Visita recente:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1826
+#: admin/class-advanced-page-visit-counter-admin.php:1866
+#: admin/class-advanced-page-visit-counter-admin.php:1907
+#: admin/class-advanced-page-visit-counter-admin.php:1948
+#: admin/class-advanced-page-visit-counter-admin.php:3588
+#, fuzzy
+msgid "Total Visits:"
+msgstr "Total de visitas:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1827
+#: admin/class-advanced-page-visit-counter-admin.php:1867
+#: admin/class-advanced-page-visit-counter-admin.php:1908
+#: admin/class-advanced-page-visit-counter-admin.php:1949
+msgid "Link"
+msgstr "Link"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1850
+#, fuzzy
+msgid "Top 10 Posts"
+msgstr "Top 10 Posts"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1855
+msgid "No Posts Found"
+msgstr "Nenhum Post Encontrado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1888
+#, fuzzy
+msgid "Top 10 Country"
+msgstr "Top 10 País"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1893
+#, fuzzy
+msgid "No Countries Found"
+msgstr "Nenhum país encontrado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1930
+msgid "Top 10 IP Addresses"
+msgstr "Principais 10 endereços IP"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1935
+#, fuzzy
+msgid "No IP Address Data Found"
+msgstr "Nenhum dado de endereço IP encontrado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1982
+#, fuzzy
+msgid "Filter by Post Types:"
+msgstr "Filtro por tipos de postagem:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1996
+#, fuzzy
+msgid "Only applies to top 10 posts, ip address and countries."
+msgstr "Só se aplica aos 10 principais posts, endereço ip e países."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2005
+#, fuzzy
+msgid "Filter by Posts:"
+msgstr "Filtro por Posts:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2020
+#, fuzzy
+msgid "Only applies to top 10 ip address and countries."
+msgstr "Só se aplica ao endereço ip top 10 e países."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2030
+#: admin/class-advanced-page-visit-counter-admin.php:2149
+#: admin/class-advanced-page-visit-counter-admin.php:2371
+msgid "10 Days"
+msgstr "10 dias"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2031
+#: admin/class-advanced-page-visit-counter-admin.php:2150
+#: admin/class-advanced-page-visit-counter-admin.php:2372
+msgid "20 Days"
+msgstr "20 dias"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2032
+#: admin/class-advanced-page-visit-counter-admin.php:2151
+#: admin/class-advanced-page-visit-counter-admin.php:2373
+msgid "30 Days"
+msgstr "30 Dias"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2033
+#: admin/class-advanced-page-visit-counter-admin.php:2152
+#: admin/class-advanced-page-visit-counter-admin.php:2374
+msgid "2 Months"
+msgstr "2 Meses"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2034
+#: admin/class-advanced-page-visit-counter-admin.php:2153
+#: admin/class-advanced-page-visit-counter-admin.php:2375
+msgid "3 Months"
+msgstr "3 Meses"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2035
+#: admin/class-advanced-page-visit-counter-admin.php:2154
+#: admin/class-advanced-page-visit-counter-admin.php:2376
+msgid "6 Months"
+msgstr "6 Meses"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2036
+#: admin/class-advanced-page-visit-counter-admin.php:2155
+#: admin/class-advanced-page-visit-counter-admin.php:2377
+msgid "9 Months"
+msgstr "9 Meses"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2037
+#: admin/class-advanced-page-visit-counter-admin.php:2156
+#: admin/class-advanced-page-visit-counter-admin.php:2378
+msgid "1 Year"
+msgstr "1 Ano"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2038
+#: admin/class-advanced-page-visit-counter-admin.php:2157
+#: admin/class-advanced-page-visit-counter-admin.php:2379
+msgid "All"
+msgstr "Todos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2041
+#: admin/class-advanced-page-visit-counter-admin.php:2384
+#: admin/class-advanced-page-visit-counter-admin.php:3143
+msgid "Start Date"
+msgstr "Data de Início"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2046
+#: admin/class-advanced-page-visit-counter-admin.php:2165
+#: admin/class-advanced-page-visit-counter-admin.php:2389
+msgid "to"
+msgstr "para"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2049
+#: admin/class-advanced-page-visit-counter-admin.php:2392
+#: admin/class-advanced-page-visit-counter-admin.php:3149
+msgid "End Date"
+msgstr "Data Final"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2054
+#: admin/class-advanced-page-visit-counter-admin.php:2173
+#: admin/class-advanced-page-visit-counter-admin.php:2473
+msgid "Go"
+msgstr "Ir"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2197
+#: admin/class-advanced-page-visit-counter-admin.php:2501
+#, fuzzy
+msgid "Articles Per Page - "
+msgstr "Artigos por página -"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2199
+#: admin/class-advanced-page-visit-counter-admin.php:2503
+msgid "10"
+msgstr "10"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2200
+#: admin/class-advanced-page-visit-counter-admin.php:2504
+msgid "20"
+msgstr "20"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2201
+#: admin/class-advanced-page-visit-counter-admin.php:2505
+msgid "50"
+msgstr "50"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2202
+#: admin/class-advanced-page-visit-counter-admin.php:2506
+msgid "100"
+msgstr "100"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2204
+#: admin/class-advanced-page-visit-counter-admin.php:2508
+msgid "500"
+msgstr "500"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2211
+#: admin/class-advanced-page-visit-counter-admin.php:2517
+msgid "No."
+msgstr "Nº."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2212
+msgid "Article ID"
+msgstr "Artigo ID"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2213
+#: admin/class-advanced-page-visit-counter-admin.php:2518
+msgid "Article Title"
+msgstr "Título do artigo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2214
+#, fuzzy
+msgid "Total Visits Count"
+msgstr "Contagem total de visitas"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2215
+#, fuzzy
+msgid "Recent Visit"
+msgstr "Visita recente"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2216
+#: admin/class-advanced-page-visit-counter-admin.php:2230
+msgid "Detailed Report"
+msgstr "Relatório Detalhado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2241
+#: admin/class-advanced-page-visit-counter-admin.php:2553
+msgid "First"
+msgstr "Primeiro"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2243
+#: admin/class-advanced-page-visit-counter-admin.php:2555
+msgid "Prev"
+msgstr "Anterior"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2246
+#: admin/class-advanced-page-visit-counter-admin.php:2558
+msgid "Next"
+msgstr "Próximo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2248
+#: admin/class-advanced-page-visit-counter-admin.php:2560
+msgid "Last"
+msgstr "Último"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2368
+#, fuzzy
+msgid "Advanced Filters: "
+msgstr "Filtros avançados:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2403
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Country: "
+msgstr "País: "
+
+#: admin/class-advanced-page-visit-counter-admin.php:2418
+msgid "Devices: "
+msgstr "Dispositivos:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2434
+#, fuzzy
+msgid "Browsers: "
+msgstr "Navegadores:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2449
+#, fuzzy
+msgid "Operating Systems: "
+msgstr "Sistemas operacionais:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2463
+msgid "User Type "
+msgstr "Tipo de usuário "
+
+#: admin/class-advanced-page-visit-counter-admin.php:2466
+msgid "Guest"
+msgstr "Convidado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2470
+msgid "Registered"
+msgstr "Registrado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2475
+msgid "Reset"
+msgstr "Redefinir"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2511
+#, fuzzy
+msgid "Back To Reports"
+msgstr "De volta aos relatórios"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2519
+#, fuzzy
+msgid "Article Type"
+msgstr "Tipo de artigo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2520
+msgid "User Type"
+msgstr "Tipo de Usuário"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2521
+#, fuzzy
+msgid "Visited Date"
+msgstr "Data visitada"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2522
+msgid "IP Address"
+msgstr "Endereço IP"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2523
+msgid "Browser Info"
+msgstr "Informação do Navegador"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2524
+msgid "Referrer URL"
+msgstr "URL de Referência"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Browser: "
+msgstr "Navegar:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+#, fuzzy
+msgid "OS: "
+msgstr "OS:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Device: "
+msgstr "Dispositivo:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2595
+msgid "Dashboard"
+msgstr "Painel"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2601
+msgid "Trending"
+msgstr "Tendência"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2607
+msgid "Reports"
+msgstr "Relatórios"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2613
+#: admin/class-advanced-page-visit-counter-admin.php:4052
+msgid "Shortcode Generator"
+msgstr "Gerador de Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2619
+#, fuzzy
+msgid "Shortcode Library"
+msgstr "Biblioteca de códigos curtos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2628
+#: admin/class-advanced-page-visit-counter-admin.php:3399
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2634
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2634
+#, fuzzy
+msgid "Premium <br /> Only"
+msgstr "Premium<br />Só"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2640
+#: admin/class-advanced-page-visit-counter-admin.php:2871
+msgid "Import Data"
+msgstr "Importar Dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2645
+#: admin/class-advanced-page-visit-counter-admin.php:3056
+msgid "Export Data"
+msgstr "Exportar Dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2679
+#, fuzzy
+msgid "Hand-crafted & made with"
+msgstr "Feito à mão e feito com"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2679
+#, fuzzy
+msgid "Page Visit Counter"
+msgstr "Contador de visitas da página"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2876
+#, fuzzy
+msgid "Upload File (xls,xlsx,csv)"
+msgstr "Upload File (xls,xlsx,csv)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2878
+msgid "Import"
+msgstr "Importar"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2881
+#, fuzzy
+msgid "Download Example CSV File"
+msgstr "Baixar exemplo arquivo CSV"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2901
+#, fuzzy
+msgid "Import Data from Page Visit Counter Plugin"
+msgstr "Importar dados do plugin de contador de visitas de página"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2903
+#, fuzzy
+msgid "One Click Import from Page Visit Counter Plugin"
+msgstr "Um clique importação de página visitar plugin de contador"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2986
+#, fuzzy
+msgid "Get Awesome Premium Features"
+msgstr "Obtenha recursos premium incríveis"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2998
+#: admin/class-advanced-page-visit-counter-admin.php:3025
+#, fuzzy
+msgid "Lots of features are coming soon."
+msgstr "Muitas características estão chegando."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3012
+#, fuzzy
+msgid "Thank You! For becoming a Premium Member"
+msgstr "Obrigado! Para se tornar um Membro Premium"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3015
+#, fuzzy
+msgid "Please give your valuable suggestions to improve this awesome plugin."
+msgstr ""
+"Por favor, dê suas sugestões valiosas para melhorar este plugin incrível."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3018
+#: admin/class-advanced-page-visit-counter-admin.php:3028
+#, fuzzy
+msgid "Give your review"
+msgstr "Dê sua opinião"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3064
+#, fuzzy
+msgid "Export By Post Types"
+msgstr "Exportação por tipos de postagem"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3066
+#, fuzzy
+msgid "Export By Posts/Pages"
+msgstr "Exportar por posts/páginas"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3068
+#, fuzzy
+msgid "Export By Country"
+msgstr "Exportação por país"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3070
+#, fuzzy
+msgid "Export By Referrer"
+msgstr "Exportação por Referrer"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3072
+msgid "Export All"
+msgstr "Exportar tudo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3080
+#, fuzzy
+msgid "Select Post Types to Export Data"
+msgstr "Selecione tipos de postagem para exportar dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3097
+#, fuzzy
+msgid "Select Pages/Posts to Export Data"
+msgstr "Selecione páginas/postagens para exportar dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3111
+#, fuzzy
+msgid "Select Countries to Export Data"
+msgstr "Selecione países para exportar dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3125
+#, fuzzy
+msgid "Select Referrers to Export Data"
+msgstr "Selecione os remetos para dados de exportação"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3139
+#, fuzzy
+msgid "Select Dates to Export Data"
+msgstr "Selecione datas para exportar dados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3161
+msgid "Export"
+msgstr "Exportar"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3170
+#, fuzzy
+msgid "Exported Files"
+msgstr "Arquivos exportados"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3175
+#: admin/class-advanced-page-visit-counter-admin.php:4352
+msgid "Title"
+msgstr "Título"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3176
+msgid "File Name"
+msgstr "Nome do arquivo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3177
+msgid "Date"
+msgstr "Data"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3178
+#: admin/class-advanced-page-visit-counter-admin.php:4354
+msgid "Action"
+msgstr "Ação"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3193
+#: admin/class-advanced-page-visit-counter-admin.php:4367
+msgid "X"
+msgstr "X"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3392
+msgid "Settings have been saved successfully"
+msgstr "Suas configurações foram salvas com sucesso"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3394
+#, fuzzy
+msgid "Settings reset successfully."
+msgstr "Configurações redefinidas com sucesso."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3404
+msgid "Post Types"
+msgstr "Tipos de Post"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3422
+#, fuzzy
+msgid "Exclude IP Addresses"
+msgstr "Excluir endereços IP"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3430
+#, fuzzy
+msgid "Exclude Post/Pages Counts"
+msgstr "Excluir contagens de post/páginas"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3439
+#, fuzzy
+msgid "Exclude Showing Counter Widget on Pages/Posts"
+msgstr "Excluir o widget de exibição de contador em páginas/postagens"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3447
+msgid "Exclude User"
+msgstr "Excluir ou selecionar um usuário"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3456
+#, fuzzy
+msgid "Spam Controller"
+msgstr "Controlador de spam"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3458
+#, fuzzy
+msgid ""
+"*This setting will ignore visit counts comes from spammers or continues "
+"refresh browser windows. ( by enabling this settings we count 1 visit in "
+"every 5 minutes from each ip address )"
+msgstr ""
+"*Esta configuração ignorará a contagem de visitas vem de spammers ou "
+"continua a atualizar janelas do navegador. ( ao habilitar essas "
+"configurações contamos 1 visita em cada 5 minutos de cada endereço ip )"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3465
+msgid "Widget Styling"
+msgstr "Selecione o estilo da fonte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3471
+#, fuzzy
+msgid "Show Counter on Front End"
+msgstr "Contador de show na front-end"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3474
+#: admin/class-advanced-page-visit-counter-admin.php:3528
+#: admin/class-advanced-page-visit-counter-admin.php:4085
+#: admin/class-advanced-page-visit-counter-admin.php:4137
+#: admin/class-advanced-page-visit-counter-admin.php:4230
+msgid "Choose your option"
+msgstr "Escolha sua opção"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3475
+msgid "Hide"
+msgstr "Esconder"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3476
+#, fuzzy
+msgid "Above the content"
+msgstr "Acima do conteúdo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3477
+#, fuzzy
+msgid "Below the content"
+msgstr "Abaixo do conteúdo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3485
+#, fuzzy
+msgid "Default Counter Text Color"
+msgstr "Cor de texto do contador padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3493
+#, fuzzy
+msgid "Default Counter Border Color"
+msgstr "Cor da borda do contador padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3501
+#, fuzzy
+msgid "Default Background Color"
+msgstr "Cor de fundo padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3509
+#, fuzzy
+msgid "Default Border Radius"
+msgstr "Raio de borda padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3517
+#, fuzzy
+msgid "Default Border Width"
+msgstr "Largura de borda padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3525
+#, fuzzy
+msgid "Widget Alignment"
+msgstr "Alinhamento do widget"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3529
+#, fuzzy
+msgid "Left - Default"
+msgstr "Esquerda - Padrão"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3530
+msgid "Right"
+msgstr "Direita"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3531
+msgid "Center"
+msgstr "Centro"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3547
+#, fuzzy
+msgid "Width of the Widget (In Pixels)"
+msgstr "Largura do widget (em pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3563
+#, fuzzy
+msgid "Padding of the Widget (In Pixels)"
+msgstr "Preenchimento do widget (em pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3571
+#, fuzzy
+msgid "Default Label (Total Visits of Current Page)"
+msgstr "Rótulo padrão (Visitas totais da página atual)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3572
+#, fuzzy
+msgid "Visits:"
+msgstr "Visitas:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3579
+#, fuzzy
+msgid "Today's Count Label"
+msgstr "Rótulo de Contagem de Hoje"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3580
+#, fuzzy
+msgid "Today's Visits:"
+msgstr "Visitas de hoje:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3587
+#, fuzzy
+msgid "Total Counts Label (Global)"
+msgstr "Rótulo de Contagem Total (Global)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3600
+#, fuzzy
+msgid "Total Visits of Current Page"
+msgstr "Visitas totais da página atual"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3602
+#: admin/class-advanced-page-visit-counter-admin.php:4194
+#, fuzzy
+msgid "*This will show total counts the current page."
+msgstr "*Isso mostrará contagem total da página atual."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3611
+#: admin/class-advanced-page-visit-counter-admin.php:4181
+#, fuzzy
+msgid "Show Global Total Counts"
+msgstr "Mostrar contagem total global"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3613
+#: admin/class-advanced-page-visit-counter-admin.php:3624
+#: admin/class-advanced-page-visit-counter-admin.php:4183
+#, fuzzy
+msgid "*This will show total counts for whole website."
+msgstr "*Isso mostrará contagens totais para todo o site."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3622
+#, fuzzy
+msgid "Show Today's Counts"
+msgstr "Show Hoje conta"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3634
+msgid "Premium Settings"
+msgstr "Configurações Premium"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3640
+#, fuzzy
+msgid "Exclude Count by Country"
+msgstr "Excluir contagem por país"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3658
+#, fuzzy
+msgid "Exclude Count Based on User Roles"
+msgstr "Excluir contagem com base em funções do usuário"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3677
+#, fuzzy
+msgid "Hide Widget(Counter) For Users"
+msgstr "Ocultar widget(contador) para usuários"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3686
+#, fuzzy
+msgid "Hide Only For "
+msgstr "Esconder-se apenas para"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3686
+msgid " Users"
+msgstr "Todos os usuários"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3695
+#, fuzzy
+msgid "Hide Widget(Counter) Based on User Roles"
+msgstr "Ocultar widget(contador) com base em funções do usuário"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3713
+#: admin/class-advanced-page-visit-counter-admin.php:4256
+#, fuzzy
+msgid "Icon For Current Page Counts"
+msgstr "Ícone para contagem de páginas atuais"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3732
+#, fuzzy
+msgid "Icon For Total Page Counts(Global)"
+msgstr "Ícone para contagem total de páginas (Global)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3751
+#: admin/class-advanced-page-visit-counter-admin.php:4286
+#, fuzzy
+msgid "Icon For Today's Counts"
+msgstr "Ícone para as contagens de hoje"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3770
+#: admin/class-advanced-page-visit-counter-admin.php:4301
+msgid "Icon Position"
+msgstr "Posição do ícone"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3788
+#, fuzzy
+msgid "Exclude Web Crawlers"
+msgstr "Exclua web crawlers"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3808
+#, fuzzy
+msgid "Hide All Shortcodes"
+msgstr "Ocultar todos os códigos curtos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3810
+#, fuzzy
+msgid "*This will hide shortcode on all pages and posts."
+msgstr "*Isso ocultará código curto em todas as páginas e postagens."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3828
+#: admin/class-advanced-page-visit-counter-admin.php:4321
+#, fuzzy
+msgid "Widget Templates"
+msgstr "Modelos de widget"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3832
+#: admin/class-advanced-page-visit-counter-admin.php:4086
+#: admin/class-advanced-page-visit-counter-admin.php:4325
+msgid "None"
+msgstr "Nenhum"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3844
+#: admin/class-advanced-page-visit-counter-admin.php:4332
+#, fuzzy
+msgid ""
+"*Check the Shortcode Library page to check the demo of all the shortcodes."
+"<Br />*All color properties ignored if any template selected.<Br />*More "
+"than 40 templates available in the Premium version of the plugin."
+msgstr ""
+"*Verifique a página da Biblioteca de Códigos Curtos para verificar a "
+"demonstração de todos os códigos curtos.<Br />*Todas as propriedades de cor "
+"ignoradas se algum modelo for selecionado.<Br />*Mais de 40 modelos "
+"disponíveis na versão Premium do plugin."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3850
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3851
+msgid "Reset Settings"
+msgstr "Redefinir Configurações"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3852
+#, fuzzy
+msgid "Reset All Data/Counters"
+msgstr "Redefinir todos os dados/contadores"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4032
+#: admin/class-advanced-page-visit-counter-admin.php:4382
+msgid "Shortcode Preview"
+msgstr "Shortcode Preview"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4055
+#: admin/class-advanced-page-visit-counter-admin.php:4337
+msgid "Generate Shortcode"
+msgstr "Gerar Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4062
+#, fuzzy
+msgid "Border Size (in pixels)"
+msgstr "Tamanho da borda (em pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4071
+#, fuzzy
+msgid "Border Radius (in pixels)"
+msgstr "Raio de Borda (em pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4082
+msgid "Border Style"
+msgstr "Estilo de borda"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4087
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4088
+msgid "Dashed"
+msgstr "Tracejado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4089
+msgid "Solid"
+msgstr "Sólido"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4090
+msgid "Double"
+msgstr "Duplo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4098
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4108
+msgid "Font Color"
+msgstr "Cor da Fonte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4116
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4126
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4134
+msgid "Font Style"
+msgstr "Estilo da Fonte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4138
+msgid "Please Select"
+msgstr "Por favor selecione"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4139
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4140
+msgid "Bold"
+msgstr "Negrito"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4141
+msgid "Italic"
+msgstr "Itálico"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4151
+msgid "Padding"
+msgstr "Preenchimento"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4159
+msgid "Width"
+msgstr "Largura"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4170
+#, fuzzy
+msgid "Show Today's Visit Counts"
+msgstr "Show's Visit Counts"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4172
+#, fuzzy
+msgid "*This will show today's count for individual post/page."
+msgstr "*Isso mostrará a contagem de hoje para post/page individual."
+
+#: admin/class-advanced-page-visit-counter-admin.php:4192
+#, fuzzy
+msgid "Show Current Page Total"
+msgstr "Mostrar o total da página atual"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4204
+#, fuzzy
+msgid "Counter Label"
+msgstr "Etiqueta de contador"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4212
+#, fuzzy
+msgid "Today's Counter Label"
+msgstr "Contra-Rótulo de hoje"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4220
+#, fuzzy
+msgid "Global Counter Label"
+msgstr "Rótulo de contador global"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4228
+msgid "Shortcode Type"
+msgstr "Tipo de shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4231
+msgid "Customized"
+msgstr "Personalizado"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4232
+#, fuzzy
+msgid "For Specific Post/Page"
+msgstr "Para post/página específico"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4243
+msgid "Articles"
+msgstr "Artigos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4271
+#, fuzzy
+msgid "Icon For Total Counts"
+msgstr "Ícone para contagem total"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4347
+#, fuzzy
+msgid "Saved Shortcodes"
+msgstr "Códigos curtos salvos"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4353
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4364
+msgid "Preview"
+msgstr "Visualização"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4366
+#, fuzzy
+msgid "Copy to Editor"
+msgstr "Copiar para Editor"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4387
+#: admin/class-advanced-page-visit-counter-admin.php:4525
+msgid "Copy Shortcode"
+msgstr "Copiar Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4531
+#, fuzzy
+msgid "Enter Shortcode name to save"
+msgstr "Digite o nome Shortcode para salvar"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4533
+#, fuzzy
+msgid "Please enter valid name for Shortcode"
+msgstr "Digite o nome válido para Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4534
+#, fuzzy
+msgid "Shortcode save successfully"
+msgstr "Salvamento de código curto com sucesso"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4535
+#, fuzzy
+msgid "Save Shortcode"
+msgstr "Salvar código curto"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4724
+#, fuzzy
+msgid "Shortcodes Library"
+msgstr "Biblioteca de códigos curtos"

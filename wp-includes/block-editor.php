@@ -153,9 +153,14 @@ function get_allowed_block_types( $block_editor_context ) {
  */
 function get_default_block_editor_settings() {
 	// Media settings.
-	$max_upload_size = wp_max_upload_size();
-	if ( ! $max_upload_size ) {
-		$max_upload_size = 0;
+
+	// wp_max_upload_size() can be expensive, so only call it when relevant for the current user.
+	$max_upload_size = 0;
+	if ( current_user_can( 'upload_files' ) ) {
+		$max_upload_size = wp_max_upload_size();
+		if ( ! $max_upload_size ) {
+			$max_upload_size = 0;
+		}
 	}
 
 	/** This filter is documented in wp-admin/includes/media.php */
@@ -192,12 +197,17 @@ function get_default_block_editor_settings() {
 	// These styles are used if the "no theme styles" options is triggered or on
 	// themes without their own editor styles.
 	$default_editor_styles_file = ABSPATH . WPINC . '/css/dist/block-editor/default-editor-styles.css';
-	if ( file_exists( $default_editor_styles_file ) ) {
+
+	static $default_editor_styles_file_contents = false;
+	if ( ! $default_editor_styles_file_contents && file_exists( $default_editor_styles_file ) ) {
+		$default_editor_styles_file_contents = file_get_contents( $default_editor_styles_file );
+	}
+
+	$default_editor_styles = array();
+	if ( $default_editor_styles_file_contents ) {
 		$default_editor_styles = array(
-			array( 'css' => file_get_contents( $default_editor_styles_file ) ),
+			array( 'css' => $default_editor_styles_file_contents ),
 		);
-	} else {
-		$default_editor_styles = array();
 	}
 
 	$editor_settings = array(
@@ -428,7 +438,7 @@ function get_block_editor_settings( array $custom_settings, $block_editor_contex
 		$actual_css    = wp_get_global_stylesheet( array( $block_classes['css'] ) );
 		if ( '' !== $actual_css ) {
 			$block_classes['css'] = $actual_css;
-			$global_styles[]  = $block_classes;
+			$global_styles[]      = $block_classes;
 		}
 	}
 
@@ -488,12 +498,12 @@ function get_block_editor_settings( array $custom_settings, $block_editor_contex
 		unset( $editor_settings['__experimentalFeatures']['spacing']['padding'] );
 	}
 	if ( isset( $editor_settings['__experimentalFeatures']['spacing']['customSpacingSize'] ) ) {
-		$editor_settings['disableCustomSpacingSizes'] = ! $editor_ettings['__experimentalFeatures']['spacing']['customSpacingSize'];
+		$editor_settings['disableCustomSpacingSizes'] = ! $editor_settings['__experimentalFeatures']['spacing']['customSpacingSize'];
 		unset( $editor_settings['__experimentalFeatures']['spacing']['customSpacingSize'] );
 	}
 
 	if ( isset( $editor_settings['__experimentalFeatures']['spacing']['spacingSizes'] ) ) {
-		$spacing_sizes_by_origin  = $editor_settings['__experimentalFeatures']['spacing']['spacingSizes'];
+		$spacing_sizes_by_origin         = $editor_settings['__experimentalFeatures']['spacing']['spacingSizes'];
 		$editor_settings['spacingSizes'] = isset( $spacing_sizes_by_origin['custom'] ) ?
 			$spacing_sizes_by_origin['custom'] : (
 				isset( $spacing_sizes_by_origin['theme'] ) ?

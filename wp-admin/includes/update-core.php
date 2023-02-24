@@ -845,6 +845,26 @@ $_old_files = array(
 	'wp-includes/blocks/tag-cloud/editor-rtl.min.css',
 	// 6.0
 	'wp-content/themes/twentytwentytwo/assets/fonts/LICENSE.md',
+	// 6.1
+	'wp-content/themes/twentytwentyone/assets/sass/05-blocks/spacer/_style.scss',
+	'wp-content/themes/twentytwentyone/assets/sass/05-blocks/spacer',
+	'wp-includes/blocks/post-comments.php',
+	'wp-includes/blocks/post-comments/block.json',
+	'wp-includes/blocks/post-comments/editor.css',
+	'wp-includes/blocks/post-comments/editor.min.css',
+	'wp-includes/blocks/post-comments/editor-rtl.css',
+	'wp-includes/blocks/post-comments/editor-rtl.min.css',
+	'wp-includes/blocks/post-comments/style.css',
+	'wp-includes/blocks/post-comments/style.min.css',
+	'wp-includes/blocks/post-comments/style-rtl.css',
+	'wp-includes/blocks/post-comments/style-rtl.min.css',
+	'wp-includes/blocks/post-comments',
+	'wp-includes/blocks/comments-query-loop/block.json',
+	'wp-includes/blocks/comments-query-loop/editor.css',
+	'wp-includes/blocks/comments-query-loop/editor.min.css',
+	'wp-includes/blocks/comments-query-loop/editor-rtl.css',
+	'wp-includes/blocks/comments-query-loop/editor-rtl.min.css',
+	'wp-includes/blocks/comments-query-loop',
 );
 
 /**
@@ -871,19 +891,20 @@ $_old_files = array(
 global $_new_bundled_files;
 
 $_new_bundled_files = array(
-	'plugins/akismet/'        => '2.0',
-	'themes/twentyten/'       => '3.0',
-	'themes/twentyeleven/'    => '3.2',
-	'themes/twentytwelve/'    => '3.5',
-	'themes/twentythirteen/'  => '3.6',
-	'themes/twentyfourteen/'  => '3.8',
-	'themes/twentyfifteen/'   => '4.1',
-	'themes/twentysixteen/'   => '4.4',
-	'themes/twentyseventeen/' => '4.7',
-	'themes/twentynineteen/'  => '5.0',
-	'themes/twentytwenty/'    => '5.3',
-	'themes/twentytwentyone/' => '5.6',
-	'themes/twentytwentytwo/' => '5.9',
+	'plugins/akismet/'          => '2.0',
+	'themes/twentyten/'         => '3.0',
+	'themes/twentyeleven/'      => '3.2',
+	'themes/twentytwelve/'      => '3.5',
+	'themes/twentythirteen/'    => '3.6',
+	'themes/twentyfourteen/'    => '3.8',
+	'themes/twentyfifteen/'     => '4.1',
+	'themes/twentysixteen/'     => '4.4',
+	'themes/twentyseventeen/'   => '4.7',
+	'themes/twentynineteen/'    => '5.0',
+	'themes/twentytwenty/'      => '5.3',
+	'themes/twentytwentyone/'   => '5.6',
+	'themes/twentytwentytwo/'   => '5.9',
+	'themes/twentytwentythree/' => '6.1',
 );
 
 /**
@@ -1168,7 +1189,7 @@ function update_core( $from, $to ) {
 			if ( $files_not_writable ) {
 				return new WP_Error(
 					'files_not_writable',
-					__( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ),
+					__( 'The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions.' ),
 					implode( ', ', $error_data )
 				);
 			}
@@ -1204,7 +1225,7 @@ function update_core( $from, $to ) {
 			$wp_filesystem->delete( $from, true );
 			$result = new WP_Error(
 				'copy_failed_for_version_file',
-				__( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ),
+				__( 'The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions.' ),
 				'wp-includes/version.php'
 			);
 		}
@@ -1417,8 +1438,8 @@ function update_core( $from, $to ) {
 	// Deactivate the REST API plugin if its version is 2.0 Beta 4 or lower.
 	_upgrade_440_force_deactivate_incompatible_plugins();
 
-	// Deactivate the Gutenberg plugin if its version is 11.8 or lower.
-	_upgrade_590_force_deactivate_incompatible_plugins();
+	// Deactivate incompatible plugins.
+	_upgrade_core_deactivate_incompatible_plugins();
 
 	// Upgrade DB with separate request.
 	/** This filter is documented in wp-admin/includes/update-core.php */
@@ -1617,14 +1638,16 @@ function _upgrade_440_force_deactivate_incompatible_plugins() {
 /**
  * @access private
  * @ignore
- * @since 5.9.0
+ * @since 5.8.0
+ * @since 5.9.0 The minimum compatible version of Gutenberg is 11.9.
+ * @since 6.1.1 The minimum compatible version of Gutenberg is 14.1.
  */
-function _upgrade_590_force_deactivate_incompatible_plugins() {
-	if ( defined( 'GUTENBERG_VERSION' ) && version_compare( GUTENBERG_VERSION, '11.9', '<' ) ) {
+function _upgrade_core_deactivate_incompatible_plugins() {
+	if ( defined( 'GUTENBERG_VERSION' ) && version_compare( GUTENBERG_VERSION, '14.1', '<' ) ) {
 		$deactivated_gutenberg['gutenberg'] = array(
 			'plugin_name'         => 'Gutenberg',
 			'version_deactivated' => GUTENBERG_VERSION,
-			'version_compatible'  => '11.9',
+			'version_compatible'  => '14.1',
 		);
 		if ( is_plugin_active_for_network( 'gutenberg/gutenberg.php' ) ) {
 			$deactivated_plugins = get_site_option( 'wp_force_deactivated_plugins', array() );

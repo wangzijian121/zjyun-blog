@@ -1,0 +1,1111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-17 23:18+0530\n"
+"PO-Revision-Date: 2020-05-18 00:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-advanced-page-visit-counter-admin.php:156
+#: admin/class-advanced-page-visit-counter-admin.php:182
+msgid "Search By :"
+msgstr "Suche nach:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:157
+msgid "Shortcode Copied to clipboard."
+msgstr "Shortcode In zwischenablage kopiert."
+
+#: admin/class-advanced-page-visit-counter-admin.php:158
+msgid "Data Imported successfully."
+msgstr "Erfolgreich importierte Daten."
+
+#: admin/class-advanced-page-visit-counter-admin.php:159
+msgid "File format is not supported."
+msgstr "Das Dateiformat wird nicht unterstützt."
+
+#: admin/class-advanced-page-visit-counter-admin.php:160
+msgid "Shortcode Deleted successfully."
+msgstr "Shortcode erfolgreich gelöscht."
+
+#: admin/class-advanced-page-visit-counter-admin.php:161
+msgid "File Deleted successfully."
+msgstr "Datei erfolgreich gelöscht."
+
+#: admin/class-advanced-page-visit-counter-admin.php:162
+msgid "Success"
+msgstr "Erfolg"
+
+#: admin/class-advanced-page-visit-counter-admin.php:163
+msgid "Failed"
+msgstr "Gescheitert"
+
+#: admin/class-advanced-page-visit-counter-admin.php:164
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: admin/class-advanced-page-visit-counter-admin.php:165
+msgid "You won't be able to revert this!"
+msgstr "Sie können dies nicht rückgängig machen!"
+
+#: admin/class-advanced-page-visit-counter-admin.php:166
+#: admin/class-advanced-page-visit-counter-admin.php:4388
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:167
+msgid "OK"
+msgstr "OK"
+
+#: admin/class-advanced-page-visit-counter-admin.php:168
+msgid "Great "
+msgstr "Großartig"
+
+#: admin/class-advanced-page-visit-counter-admin.php:169
+msgid "Please select valid date range."
+msgstr "Bitte wählen Sie einen gültigen Datumsbereich."
+
+#: admin/class-advanced-page-visit-counter-admin.php:170
+msgid "Please upload valid file. (xls,xlsx,csv)"
+msgstr "Bitte laden Sie eine gültige Datei hoch. (xls, xlsx, csv)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:171
+msgid "Please enter valid date."
+msgstr "Bitte gib ein korrektes Datum an."
+
+#: admin/class-advanced-page-visit-counter-admin.php:172
+msgid "Please enter valid data."
+msgstr "Bitte geben Sie gültige Daten ein."
+
+#: admin/class-advanced-page-visit-counter-admin.php:173
+msgid "Open"
+msgstr "Öffnen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:174
+msgid "File Export Completed"
+msgstr "Dateiexport abgeschlossen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:175
+msgid "Please Enter Shortcode Name"
+msgstr "Bitte geben Sie den Shortcode-Namen ein"
+
+#: admin/class-advanced-page-visit-counter-admin.php:198
+msgid "Advanced Page Visit Counter"
+msgstr "Erweiterter Seitenbesuchszähler"
+
+#: admin/class-advanced-page-visit-counter-admin.php:966
+#: admin/class-advanced-page-visit-counter-admin.php:1775
+msgid " ago"
+msgstr "vor"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1076
+msgid "Total Visits (Last 1 Year)"
+msgstr "Gesamtbesuche (letztes 1 Jahr)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1097
+msgid "Total Visits (Month)"
+msgstr "Gesamtzahl der Besuche (Monat)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1118
+msgid "Total Visits (Week)"
+msgstr "Gesamtzahl der Besuche (Woche)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1139
+msgid "Total Visits (Today)"
+msgstr "Gesamtzahl der Besuche (heute)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1169
+msgid "Daily"
+msgstr "Täglich"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1179
+msgid " "
+msgstr " "
+
+#: admin/class-advanced-page-visit-counter-admin.php:1192
+msgid "Updated at "
+msgstr "Aktualisiert am"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1416
+msgid "Total Revenue"
+msgstr "Gesamtumsatz"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1433
+msgid "Orders"
+msgstr "Aufträge"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1459
+msgid "Product Sales"
+msgstr "Produktverkäufe"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1477
+msgid "Realtime Statistics"
+msgstr "Echtzeitstatistik"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1478
+msgid "New"
+msgstr "Neu"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1492
+msgid ""
+"Note: These statistics are aggregated over all of your application's users."
+msgstr ""
+"Hinweis: Diese Statistiken werden über alle Benutzer Ihrer Anwendung "
+"zusammengefasst."
+
+#: admin/class-advanced-page-visit-counter-admin.php:1504
+#: admin/class-advanced-page-visit-counter-admin.php:1514
+#: admin/class-advanced-page-visit-counter-admin.php:2065
+#: admin/class-advanced-page-visit-counter-admin.php:2183
+#: admin/class-advanced-page-visit-counter-admin.php:2488
+#: admin/class-advanced-page-visit-counter-admin.php:2918
+#: admin/class-advanced-page-visit-counter-admin.php:3211
+#: admin/class-advanced-page-visit-counter-admin.php:3821
+#: admin/class-advanced-page-visit-counter-admin.php:4315
+#: admin/class-advanced-page-visit-counter-admin.php:4540
+msgid "Exclusive for Premium Version Only"
+msgstr "Exklusiv nur für die Premium-Version"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1525
+msgid "Browser Traffic"
+msgstr "Browser-Verkehr"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1537
+msgid "Traffic source (Referral Websites)"
+msgstr "Verkehrsquelle (Empfehlungswebsites)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1547
+msgid "Traffic by Operating Systems"
+msgstr "Verkehr durch Betriebssysteme"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1574
+msgid "Welcome back, "
+msgstr "Willkommen zurück,"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1577
+msgid ""
+"SPECIAL OFFER Until <strong>31st May</strong> only. <br/> USE COUPON: "
+"<strong class='cpn'>APVC30OFF</strong> TO GET <strong>30%</strong> DISCOUNT "
+"ON ALL PLANS."
+msgstr ""
+"SONDERANGEBOT Nur bis <strong>31. Mai.</strong><br/>VERWENDEN SIE COUPON: "
+"<strong class='cpn'>APVC30OFF</strong> ZU GET <strong>30%</strong> DISCOUNT "
+"AUF ALLE PLANS."
+
+#: admin/class-advanced-page-visit-counter-admin.php:1582
+#: admin/class-advanced-page-visit-counter-admin.php:1587
+msgid "Give Your Review"
+msgstr "Geben Sie Ihre Bewertung ab"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1583
+msgid "Support"
+msgstr "Unterstützung"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1584
+msgid "Premium Version "
+msgstr "Premium-Version"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1588
+#: admin/class-advanced-page-visit-counter-admin.php:2991
+#: admin/class-advanced-page-visit-counter-admin.php:3001
+msgid "Upgrade Now!"
+msgstr "Jetzt upgraden!"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1589
+msgid "Free Version "
+msgstr "Freie Version"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1809
+msgid "Top 10 Pages"
+msgstr "Top 10 Seiten"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1815
+msgid "No Pages Found"
+msgstr "Keine Seiten gefunden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1825
+#: admin/class-advanced-page-visit-counter-admin.php:1865
+#: admin/class-advanced-page-visit-counter-admin.php:1906
+#: admin/class-advanced-page-visit-counter-admin.php:1947
+msgid "Recent Visit:"
+msgstr "Letzter Besuch:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1826
+#: admin/class-advanced-page-visit-counter-admin.php:1866
+#: admin/class-advanced-page-visit-counter-admin.php:1907
+#: admin/class-advanced-page-visit-counter-admin.php:1948
+#: admin/class-advanced-page-visit-counter-admin.php:3588
+msgid "Total Visits:"
+msgstr "Besuche insgesamt:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1827
+#: admin/class-advanced-page-visit-counter-admin.php:1867
+#: admin/class-advanced-page-visit-counter-admin.php:1908
+#: admin/class-advanced-page-visit-counter-admin.php:1949
+msgid "Link"
+msgstr "Verknüpfung"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1850
+msgid "Top 10 Posts"
+msgstr "Top 10 Beiträge"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1855
+msgid "No Posts Found"
+msgstr "Keine Einträge gefunden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1888
+msgid "Top 10 Country"
+msgstr "Top 10 Land"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1893
+msgid "No Countries Found"
+msgstr "Keine Länder gefunden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1930
+msgid "Top 10 IP Addresses"
+msgstr "Keine Länder gefunden..."
+
+#: admin/class-advanced-page-visit-counter-admin.php:1935
+msgid "No IP Address Data Found"
+msgstr "Keine IP-Adressdaten gefunden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1982
+msgid "Filter by Post Types:"
+msgstr "Filtern nach Posttypen:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:1996
+msgid "Only applies to top 10 posts, ip address and countries."
+msgstr "Gilt nur für Top-10-Stellen, IP-Adresse und Länder."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2005
+msgid "Filter by Posts:"
+msgstr "Filtern nach Beiträgen:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2020
+msgid "Only applies to top 10 ip address and countries."
+msgstr "Gilt nur für Top 10 IP-Adressen und Länder."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2030
+#: admin/class-advanced-page-visit-counter-admin.php:2149
+#: admin/class-advanced-page-visit-counter-admin.php:2371
+msgid "10 Days"
+msgstr "10 Tage"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2031
+#: admin/class-advanced-page-visit-counter-admin.php:2150
+#: admin/class-advanced-page-visit-counter-admin.php:2372
+msgid "20 Days"
+msgstr "20 Tage"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2032
+#: admin/class-advanced-page-visit-counter-admin.php:2151
+#: admin/class-advanced-page-visit-counter-admin.php:2373
+msgid "30 Days"
+msgstr "30 Tage"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2033
+#: admin/class-advanced-page-visit-counter-admin.php:2152
+#: admin/class-advanced-page-visit-counter-admin.php:2374
+msgid "2 Months"
+msgstr "2 Monate"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2034
+#: admin/class-advanced-page-visit-counter-admin.php:2153
+#: admin/class-advanced-page-visit-counter-admin.php:2375
+msgid "3 Months"
+msgstr "3 Monate"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2035
+#: admin/class-advanced-page-visit-counter-admin.php:2154
+#: admin/class-advanced-page-visit-counter-admin.php:2376
+msgid "6 Months"
+msgstr "6 Monate"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2036
+#: admin/class-advanced-page-visit-counter-admin.php:2155
+#: admin/class-advanced-page-visit-counter-admin.php:2377
+msgid "9 Months"
+msgstr "9 Monate"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2037
+#: admin/class-advanced-page-visit-counter-admin.php:2156
+#: admin/class-advanced-page-visit-counter-admin.php:2378
+msgid "1 Year"
+msgstr "1 Jahr"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2038
+#: admin/class-advanced-page-visit-counter-admin.php:2157
+#: admin/class-advanced-page-visit-counter-admin.php:2379
+msgid "All"
+msgstr "Alle"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2041
+#: admin/class-advanced-page-visit-counter-admin.php:2384
+#: admin/class-advanced-page-visit-counter-admin.php:3143
+msgid "Start Date"
+msgstr "Anfangsdatum"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2046
+#: admin/class-advanced-page-visit-counter-admin.php:2165
+#: admin/class-advanced-page-visit-counter-admin.php:2389
+msgid "to"
+msgstr "bis"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2049
+#: admin/class-advanced-page-visit-counter-admin.php:2392
+#: admin/class-advanced-page-visit-counter-admin.php:3149
+msgid "End Date"
+msgstr "Endtermin"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2054
+#: admin/class-advanced-page-visit-counter-admin.php:2173
+#: admin/class-advanced-page-visit-counter-admin.php:2473
+msgid "Go"
+msgstr "Gehen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2197
+#: admin/class-advanced-page-visit-counter-admin.php:2501
+msgid "Articles Per Page - "
+msgstr "Artikel pro Seite -"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2199
+#: admin/class-advanced-page-visit-counter-admin.php:2503
+msgid "10"
+msgstr "10"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2200
+#: admin/class-advanced-page-visit-counter-admin.php:2504
+msgid "20"
+msgstr "20"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2201
+#: admin/class-advanced-page-visit-counter-admin.php:2505
+msgid "50"
+msgstr "50"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2202
+#: admin/class-advanced-page-visit-counter-admin.php:2506
+msgid "100"
+msgstr "100"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2204
+#: admin/class-advanced-page-visit-counter-admin.php:2508
+msgid "500"
+msgstr "500"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2211
+#: admin/class-advanced-page-visit-counter-admin.php:2517
+msgid "No."
+msgstr "Nr."
+
+#: admin/class-advanced-page-visit-counter-admin.php:2212
+msgid "Article ID"
+msgstr "Artikel-ID"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2213
+#: admin/class-advanced-page-visit-counter-admin.php:2518
+msgid "Article Title"
+msgstr "Artikelüberschrift"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2214
+msgid "Total Visits Count"
+msgstr "Gesamtzahl der Besuche"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2215
+msgid "Recent Visit"
+msgstr "Letzter Besuch"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2216
+#: admin/class-advanced-page-visit-counter-admin.php:2230
+msgid "Detailed Report"
+msgstr "Ausführlicher Bericht"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2241
+#: admin/class-advanced-page-visit-counter-admin.php:2553
+msgid "First"
+msgstr "Zuerst"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2243
+#: admin/class-advanced-page-visit-counter-admin.php:2555
+msgid "Prev"
+msgstr "Zurück"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2246
+#: admin/class-advanced-page-visit-counter-admin.php:2558
+msgid "Next"
+msgstr "Nächster"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2248
+#: admin/class-advanced-page-visit-counter-admin.php:2560
+msgid "Last"
+msgstr "Letzte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2368
+msgid "Advanced Filters: "
+msgstr "Erweiterte Filter:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2403
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Country: "
+msgstr "Land:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2418
+msgid "Devices: "
+msgstr "Geräte:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2434
+msgid "Browsers: "
+msgstr "Browser:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2449
+msgid "Operating Systems: "
+msgstr "Betriebssysteme:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2463
+msgid "User Type "
+msgstr "Benutzertyp"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2466
+msgid "Guest"
+msgstr "Gast"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2470
+msgid "Registered"
+msgstr "Registriert"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2475
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2511
+msgid "Back To Reports"
+msgstr "Zurück zu Berichten"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2519
+msgid "Article Type"
+msgstr "Artikeltyp"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2520
+msgid "User Type"
+msgstr "Benutzertyp"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2521
+msgid "Visited Date"
+msgstr "Besuchsdatum"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2522
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2523
+msgid "Browser Info"
+msgstr "Browser Info"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2524
+msgid "Referrer URL"
+msgstr "Referrer URL"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Browser: "
+msgstr "Browser:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "OS: "
+msgstr "Os:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2539
+msgid "Device: "
+msgstr "Gerät:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2595
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2601
+msgid "Trending"
+msgstr "Beliebt"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2607
+msgid "Reports"
+msgstr "Berichte"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2613
+#: admin/class-advanced-page-visit-counter-admin.php:4052
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2619
+msgid "Shortcode Library"
+msgstr "Shortcode-Bibliothek"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2628
+#: admin/class-advanced-page-visit-counter-admin.php:3399
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2634
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2634
+msgid "Premium <br /> Only"
+msgstr "Premium<br />Nur"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2640
+#: admin/class-advanced-page-visit-counter-admin.php:2871
+msgid "Import Data"
+msgstr "Daten importieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2645
+#: admin/class-advanced-page-visit-counter-admin.php:3056
+msgid "Export Data"
+msgstr "Daten exportieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2679
+msgid "Hand-crafted & made with"
+msgstr "Handgefertigt & hergestellt mit"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2679
+msgid "Page Visit Counter"
+msgstr "Erweiterter Seitenbesuchszähler"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2876
+msgid "Upload File (xls,xlsx,csv)"
+msgstr "Bitte laden Sie eine gültige Datei hoch. (xls, xlsx, csv)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2878
+msgid "Import"
+msgstr "Importieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2881
+msgid "Download Example CSV File"
+msgstr "Beispiel CSV-Datei herunterladen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2901
+msgid "Import Data from Page Visit Counter Plugin"
+msgstr "Importieren von Daten aus dem Page Visit Counter Plugin"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2903
+msgid "One Click Import from Page Visit Counter Plugin"
+msgstr "Ein-Klick-Import von Page Visit Counter Plugin"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2986
+msgid "Get Awesome Premium Features"
+msgstr "Holen Sie sich awesome Premium-Funktionen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:2998
+#: admin/class-advanced-page-visit-counter-admin.php:3025
+msgid "Lots of features are coming soon."
+msgstr "Viele Funktionen kommen bald."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3012
+msgid "Thank You! For becoming a Premium Member"
+msgstr "Danke! Für die Mitgliedschaft als Premium-Mitglied"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3015
+msgid "Please give your valuable suggestions to improve this awesome plugin."
+msgstr ""
+"Bitte geben Sie Ihre wertvollen Vorschläge, um dieses tolle Plugin zu "
+"verbessern."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3018
+#: admin/class-advanced-page-visit-counter-admin.php:3028
+msgid "Give your review"
+msgstr "Geben Sie Ihre Bewertung ab"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3064
+msgid "Export By Post Types"
+msgstr "Filtern nach Posttypen:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3066
+msgid "Export By Posts/Pages"
+msgstr "Keine Seiten gefunden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3068
+msgid "Export By Country"
+msgstr "Exportieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3070
+msgid "Export By Referrer"
+msgstr "Export durch Referrer"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3072
+msgid "Export All"
+msgstr "Alle exportieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3080
+msgid "Select Post Types to Export Data"
+msgstr "Wählen Sie Post-Typen zum Exportieren von Daten aus"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3097
+msgid "Select Pages/Posts to Export Data"
+msgstr "Seiten/Beiträge zum Exportieren von Daten auswählen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3111
+msgid "Select Countries to Export Data"
+msgstr "Auswählen von Ländern zum Exportieren von Daten"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3125
+msgid "Select Referrers to Export Data"
+msgstr "Auswählen von Referrern zum Exportieren von Daten"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3139
+msgid "Select Dates to Export Data"
+msgstr "Daten exportieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3161
+msgid "Export"
+msgstr "Exportieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3170
+msgid "Exported Files"
+msgstr "Exportierte Dateien"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3175
+#: admin/class-advanced-page-visit-counter-admin.php:4352
+msgid "Title"
+msgstr "Titel"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3176
+msgid "File Name"
+msgstr "Dateiname"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3177
+msgid "Date"
+msgstr "Datum"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3178
+#: admin/class-advanced-page-visit-counter-admin.php:4354
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3193
+#: admin/class-advanced-page-visit-counter-admin.php:4367
+msgid "X"
+msgstr "X"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3392
+msgid "Settings have been saved successfully"
+msgstr "Einstellungen wurden erfolgreich gespeichert"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3394
+msgid "Settings reset successfully."
+msgstr "Einstellungen erfolgreich zurückgesetzt."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3404
+msgid "Post Types"
+msgstr "Beitragstypen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3422
+msgid "Exclude IP Addresses"
+msgstr "IP-Adressen ausschließen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3430
+msgid "Exclude Post/Pages Counts"
+msgstr "Post/Seiten-Zählungen ausschließen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3439
+msgid "Exclude Showing Counter Widget on Pages/Posts"
+msgstr "Ausschließen des Anzeigens von Counter-Widgets auf Seiten/Beiträgen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3447
+msgid "Exclude User"
+msgstr "Benutzertyp"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3456
+msgid "Spam Controller"
+msgstr "Spam-Controller"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3458
+msgid ""
+"*This setting will ignore visit counts comes from spammers or continues "
+"refresh browser windows. ( by enabling this settings we count 1 visit in "
+"every 5 minutes from each ip address )"
+msgstr ""
+"*Diese Einstellung ignoriert die Anzahl der Besuche von Spammern oder "
+"aktualisiert Browserfenster weiter. ( durch Aktivieren dieser Einstellungen "
+"zählen wir 1 Besuch in alle 5 Minuten von jeder IP-Adresse )"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3465
+msgid "Widget Styling"
+msgstr "Widget Styling"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3471
+msgid "Show Counter on Front End"
+msgstr "Show Counter am Front End"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3474
+#: admin/class-advanced-page-visit-counter-admin.php:3528
+#: admin/class-advanced-page-visit-counter-admin.php:4085
+#: admin/class-advanced-page-visit-counter-admin.php:4137
+#: admin/class-advanced-page-visit-counter-admin.php:4230
+msgid "Choose your option"
+msgstr "Wähle deine Option"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3475
+msgid "Hide"
+msgstr "Verstecken"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3476
+msgid "Above the content"
+msgstr "Oberhalb des Inhalts"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3477
+msgid "Below the content"
+msgstr "Unterhalb des Inhalts"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3485
+msgid "Default Counter Text Color"
+msgstr "Default Counter Text Color"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3493
+msgid "Default Counter Border Color"
+msgstr "Default Counter Border Color"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3501
+msgid "Default Background Color"
+msgstr "Default Background Color"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3509
+msgid "Default Border Radius"
+msgstr "Default Border Radius"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3517
+msgid "Default Border Width"
+msgstr "Rahmenstil"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3525
+msgid "Widget Alignment"
+msgstr "Widgetausrichtung"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3529
+msgid "Left - Default"
+msgstr "Standard-Hintergrund-Farbe"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3530
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3531
+msgid "Center"
+msgstr "Zentriert"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3547
+msgid "Width of the Widget (In Pixels)"
+msgstr "Widget Styling"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3563
+msgid "Padding of the Widget (In Pixels)"
+msgstr "Padding des Widgets (in Pixeln)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3571
+msgid "Default Label (Total Visits of Current Page)"
+msgstr "Standardbeschriftung (Gesamtbesuche der aktuellen Seite)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3572
+msgid "Visits:"
+msgstr "Aufrufe:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3579
+msgid "Today's Count Label"
+msgstr "Das heutige Count Label"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3580
+msgid "Today's Visits:"
+msgstr "Die heutigen Besuche:"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3587
+msgid "Total Counts Label (Global)"
+msgstr "Gesamtanzahl Label (Global)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3600
+msgid "Total Visits of Current Page"
+msgstr "Besuche der aktuellen Seite insgesamt"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3602
+#: admin/class-advanced-page-visit-counter-admin.php:4194
+msgid "*This will show total counts the current page."
+msgstr "*Dies zeigt die Gesamtzahl der aktuellen Seiten an."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3611
+#: admin/class-advanced-page-visit-counter-admin.php:4181
+msgid "Show Global Total Counts"
+msgstr "Globale Gesamtzahlen anzeigen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3613
+#: admin/class-advanced-page-visit-counter-admin.php:3624
+#: admin/class-advanced-page-visit-counter-admin.php:4183
+msgid "*This will show total counts for whole website."
+msgstr ""
+"*Dies zeigt die Gesamtzahl der Gesamtwerte für die gesamte Website an."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3622
+msgid "Show Today's Counts"
+msgstr "Die Heutigen Zahlen anzeigen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3634
+msgid "Premium Settings"
+msgstr "Premium-Einstellungen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3640
+msgid "Exclude Count by Country"
+msgstr "Anzahl nach Land ausschließen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3658
+msgid "Exclude Count Based on User Roles"
+msgstr "Anzahl ausschließen basierend auf Benutzerrollen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3677
+msgid "Hide Widget(Counter) For Users"
+msgstr "Widget (Counter) für Benutzer ausblenden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3686
+msgid "Hide Only For "
+msgstr "Exklusiv nur für die Premium-Version"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3686
+msgid " Users"
+msgstr " Benutzer"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3695
+msgid "Hide Widget(Counter) Based on User Roles"
+msgstr "Widget(Counter) basierend auf Benutzerrollen ausblenden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3713
+#: admin/class-advanced-page-visit-counter-admin.php:4256
+msgid "Icon For Current Page Counts"
+msgstr "Symbol für aktuelle Seitenzählungen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3732
+msgid "Icon For Total Page Counts(Global)"
+msgstr "Symbol für Gesamtzahl der Seitenzahlen(Global)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3751
+#: admin/class-advanced-page-visit-counter-admin.php:4286
+msgid "Icon For Today's Counts"
+msgstr "Gesamtzahl der Besuche (heute)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3770
+#: admin/class-advanced-page-visit-counter-admin.php:4301
+msgid "Icon Position"
+msgstr "Icon Position"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3788
+msgid "Exclude Web Crawlers"
+msgstr "Web-Crawler ausschließen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3808
+msgid "Hide All Shortcodes"
+msgstr "Alle Kurzwahlnummern ausblenden"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3810
+msgid "*This will hide shortcode on all pages and posts."
+msgstr "*Dies wird Shortcode auf allen Seiten und Beiträgen verstecken."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3828
+#: admin/class-advanced-page-visit-counter-admin.php:4321
+msgid "Widget Templates"
+msgstr "Widgetausrichtung"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3832
+#: admin/class-advanced-page-visit-counter-admin.php:4086
+#: admin/class-advanced-page-visit-counter-admin.php:4325
+msgid "None"
+msgstr "Keine"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3844
+#: admin/class-advanced-page-visit-counter-admin.php:4332
+msgid ""
+"*Check the Shortcode Library page to check the demo of all the shortcodes."
+"<Br />*All color properties ignored if any template selected.<Br />*More "
+"than 40 templates available in the Premium version of the plugin."
+msgstr ""
+"*Überprüfen Sie die Shortcode-Bibliothek Seite, um die Demo aller "
+"Shortcodes zu überprüfen.<Br />*Alle Farbeigenschaften werden ignoriert, "
+"wenn eine Vorlage ausgewählt ist.<Br />*Mehr als 40 Vorlagen in der Premium-"
+"Version des Plugins verfügbar."
+
+#: admin/class-advanced-page-visit-counter-admin.php:3850
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3851
+msgid "Reset Settings"
+msgstr "Einstellungen zurücksetzen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:3852
+msgid "Reset All Data/Counters"
+msgstr "Zurücksetzen aller Daten/Zähler"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4032
+#: admin/class-advanced-page-visit-counter-admin.php:4382
+msgid "Shortcode Preview"
+msgstr "Shortcode Voransicht"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4055
+#: admin/class-advanced-page-visit-counter-admin.php:4337
+msgid "Generate Shortcode"
+msgstr "Shortcode generieren"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4062
+msgid "Border Size (in pixels)"
+msgstr "Border Size (in pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4071
+msgid "Border Radius (in pixels)"
+msgstr "Border Radius (in pixels)"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4082
+msgid "Border Style"
+msgstr "Border Style"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4087
+msgid "Dotted"
+msgstr "Dotted"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4088
+msgid "Dashed"
+msgstr "Dashed"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4089
+msgid "Solid"
+msgstr "Durchgezogen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4090
+msgid "Double"
+msgstr "Doppelt"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4098
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4108
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4116
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4126
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4134
+msgid "Font Style"
+msgstr "Schriftstil"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4138
+msgid "Please Select"
+msgstr "Bitte auswählen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4139
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4140
+msgid "Bold"
+msgstr "Fett"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4141
+msgid "Italic"
+msgstr "Kursiv"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4151
+msgid "Padding"
+msgstr "Innenabstand"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4159
+msgid "Width"
+msgstr "Breite"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4170
+msgid "Show Today's Visit Counts"
+msgstr "Die Anzahl der Besucher von heute anzeigen"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4172
+msgid "*This will show today's count for individual post/page."
+msgstr "*Dies zeigt die heutige Anzahl für einzelne Post/Seite an."
+
+#: admin/class-advanced-page-visit-counter-admin.php:4192
+msgid "Show Current Page Total"
+msgstr "Aktuelle Seite anzeigen Gesamt"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4204
+msgid "Counter Label"
+msgstr "Counter-Label"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4212
+msgid "Today's Counter Label"
+msgstr "Das heutige Gegenetikett"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4220
+msgid "Global Counter Label"
+msgstr "Global Counter Label"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4228
+msgid "Shortcode Type"
+msgstr "Shortcode-Typ"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4231
+msgid "Customized"
+msgstr "Kundenspezifisch"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4232
+msgid "For Specific Post/Page"
+msgstr "Für bestimmte Post/Seite"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4243
+msgid "Articles"
+msgstr "Artikel"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4271
+msgid "Icon For Total Counts"
+msgstr "Symbol für Gesamtanzahl"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4347
+msgid "Saved Shortcodes"
+msgstr "Gespeicherte Kurzwahlcodes"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4353
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4364
+msgid "Preview"
+msgstr "Vorschau"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4366
+msgid "Copy to Editor"
+msgstr "Copy to Editor"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4387
+#: admin/class-advanced-page-visit-counter-admin.php:4525
+msgid "Copy Shortcode"
+msgstr "Copy Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4531
+msgid "Enter Shortcode name to save"
+msgstr "Bitte geben Sie den Shortcode-Namen ein"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4533
+msgid "Please enter valid name for Shortcode"
+msgstr "Bitte geben Sie einen gültigen Namen für Shortcode ein"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4534
+msgid "Shortcode save successfully"
+msgstr "Shortcode erfolgreich gelöscht."
+
+#: admin/class-advanced-page-visit-counter-admin.php:4535
+msgid "Save Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-advanced-page-visit-counter-admin.php:4724
+msgid "Shortcodes Library"
+msgstr "Shortcode-Bibliothek"

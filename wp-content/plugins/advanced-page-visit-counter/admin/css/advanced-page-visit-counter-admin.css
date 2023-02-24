@@ -1,0 +1,236 @@
+/********************************************************************/
+
+.apvc_version {
+	margin-left: 50px !important;
+}
+
+.card .card-body {
+	padding: 0.8rem 0.8rem;
+}
+
+.card {
+	padding: .8em 1em 0.8em;
+}
+
+.myref-chart, .myos-chart {
+	margin-top: 50px !important;
+}
+
+.footer {
+	padding: 50px 1rem;
+}
+
+.report_card {
+	margin-top: 0px !important;
+}
+
+#reports-listing .btn-outline-primary {
+	padding: 10px;
+	cursor: pointer;
+}
+
+#reports-listing .btn-outline-primary:hover {
+	color: #fff;
+}
+
+.apvc-detailed-filters {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.apvc-detailed-filters .dropdown {
+	float: left;
+}
+
+.apvc-detailed-filters .buttona {
+	padding: 9.5px;
+	width: 170px;
+	margin-left: 10px;
+}
+
+.ap_width {
+	width: 125px !important;
+	word-wrap: break-word;
+	white-space: pre-wrap;
+}
+
+.apvc_geo_stats {
+	width: 150px !important;
+	word-wrap: break-word;
+	white-space: pre-wrap !important;
+	font-size: 12px !important;
+}
+
+.apvc_title {
+	max-width: 300px !important;
+	word-wrap: break-word;
+	white-space: pre-wrap;
+}
+
+.trending .card-title {
+	font-size: 16px;
+}
+
+.menu-active {
+	background: #004aad;
+}
+
+.report_card .pagination {
+	margin: 10px 0px 10px 0px;
+}
+
+.avpc-settings-page .card {
+	max-width: 100% !important;
+	margin-top: 0px !important
+}
+
+.apvc-save-btns button {
+	margin: 10px;
+}
+
+#counter_label {
+	height: 35px;
+}
+
+@media (max-width: 768px) {
+	.apvc-detailed-filters .buttona {
+		padding: 9.5px;
+		width: 170px;
+		margin: 10px 0px 0px 0px;
+	}
+}
+
+.shLoader {
+	display: none;
+}
+
+.shArticles {
+	display: none;
+}
+
+.shortcode_copy {
+	margin-top: 20px;
+}
+
+#apvc_referral_stats_data .list-item .col, #apvc_os_stats_data .list-item .col {
+	font-size: 14px;
+}
+
+
+
+#ui-datepicker-div {
+	border: none;
+	background-color: none;
+}
+
+.add-block .btn_rv {
+	width: 20%;
+}
+
+.card .nav {
+	display: contents !important;
+}
+
+.intro-banner a {
+	background: red;
+	padding: 7px;
+	color: #fff;
+	border: 1px dashed;
+}
+
+.adv_sts .card .card-body {
+	padding: 4px;
+}
+
+.hm_heading {
+	padding: 10px 0px 1px 10px;
+	margin: 10px 0px -10px 0px;
+	background: #fff;
+	border-radius: 15px;
+}
+
+.hm_dash_heading {
+	padding: 10px 20px 1px 0px;
+	margin: 10px 0px -10px 0px;
+	background: #fff;
+	border-radius: 15px;
+}
+
+.hm_dash_heading h5 {
+	font-size: 15px;
+}
+
+.hm_dash_heading #apvc_update_dash {
+	margin-left: 12px;
+	border-radius: 30px;
+}
+
+.avpc-settings-page .tab-basic .nav-item, .shortcodeG .tab-basic .nav-item {
+	width: auto !important;
+	float: left;
+	margin-right: 5%;
+}
+
+/*.form-sample .col-md-6{ float: left; }*/
+.tab-basic .nav-item .nav-link.active {
+	border-bottom: 2px solid #004aad;
+	color: #004aad;
+}
+
+.tab-content .tab-pane {
+	display: none;
+}
+
+.tab-content .active {
+	display: block;
+}
+
+#widTemplates {
+	max-width: 500px;
+}
+
+.iconDiv, #widgetTab select {
+	width: 100%;
+}
+
+.apvc-save-btns .btn {
+	padding: 20px;
+}
+
+.card .tab-basic {
+	display: inherit !important;
+}
+
+#apvc_generate_shortcode .apvc-save-btns {
+	position: fixed;
+	z-index: 9999;
+	right: 20px;
+	top: 260px;
+}
+
+#apvc_generate_shortcode .apvc-save-btns button {
+	padding: 15px;
+}
+
+.topPagesTableTag {
+	width: 100%;
+}
+
+/*.trending .card, .general-reports .card, .filters-list{ padding: 0px; }*/
+#getPremium .modal-title {
+	font-size: 24px !important;
+	color: red;
+}
+
+#getPremium ul {
+	list-style: decimal;
+}
+
+#getPremium ul li {
+	margin-left: 20px;
+}
+
+#getPremium a {
+	padding: 20px;
+	text-align: center;
+}
